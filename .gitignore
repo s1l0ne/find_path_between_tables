@@ -1,6 +1,6 @@
 *.json
 *.spec
-*.gpickle
+*.pickle
 
 /dist
 /lib
