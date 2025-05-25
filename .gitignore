@@ -1,0 +1,10 @@
+*.json
+*.spec
+*.gpickle
+
+/dist
+/lib
+/build
+
+/.venv
+/.idea
